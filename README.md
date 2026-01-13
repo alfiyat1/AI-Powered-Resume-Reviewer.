@@ -1,1 +1,3 @@
-# AI-Powered-Resume-Reviewer.
+# AI-Powered-Resume-Reviewer #
+AI-Powered Resume Reviewer
+The AI-Powered Resume Reviewer is an intelligent tool designed to help job seekers optimize their resumes for specific job roles. It analyzes a user’s resume and compares it with a target job description to identify missing or weak keywords, skills, and role-specific requirements. Using natural language processing and AI, the tool provides personalized suggestions to improve content, formatting, and relevance. This helps candidates tailor their resumes more effectively, increase compatibility with Applicant Tracking Systems (ATS), and improve their chances of getting shortlisted for interviews.
